@@ -1,6 +1,5 @@
-Dear TA:
 
-You can simply run the code like "python3 hw2.2.py". Once it is ran. There is an instruction like below: 
+You can simply run the code like "python3 Search.py". Once it is ran. There is an instruction like below: 
 
 This program is designed to apply different searching methods. You are required to type in a string in the form of '####X'. 
 Each '#' represents a digit among 1, 2, 3, 4 and 'X' is used to indicate the methods you are going to use. For example, 
@@ -31,8 +30,4 @@ until your input is in the right form. And immediately, the program will give yo
 4|123 g=9   h=3  
 4321  g=12  h=0  
 
-That is all about how to run the code. Thank you for your hardworking. 
-
-Best
-
-Yue
+That is all about how to run the code. Thank you .
